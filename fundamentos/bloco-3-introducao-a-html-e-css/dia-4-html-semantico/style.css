@@ -1,0 +1,90 @@
+/* geral */
+   main p{
+       width: 800px;
+       font-size: 30px;
+    }
+
+    .sub-titulo{
+        font-size: 30px;
+        font-weight: 700;
+        font-family: monospace;
+    }
+
+/* cabecalho */
+    header{
+    background-color: rgb(187, 62, 3);
+    height:100px ;
+    
+    }
+
+    header p{
+    font-weight: 800;
+    font-size: xx-large;
+    text-align: center;
+    
+    }   
+
+/* navegacao */
+    nav{
+    background-color: rgb(15, 227, 230);
+    text-align: center;
+    text-decoration: none;
+    padding: 4px;
+    border: solid;
+    
+
+    }
+
+    .botoes{
+    display: inline;
+    margin-right: 50px;
+    text-decoration: none;
+    color: black;
+    border-left: solid; 
+    border-right: solid;
+    padding: 5px;
+    
+    
+    }
+    a:hover{
+    background-color: black;
+    color: white;
+    border-color: black;
+    }
+
+/* fatos */
+#fatos{
+    text-align: center;
+    font-size: 50px;
+    background-image:url(http://1.bp.blogspot.com/-9nUUfWBZg8w/T7uLMMiurGI/AAAAAAAAFrs/cjHB7NDNCJg/s400/Mantis-shrimp.jpg);    
+    font-weight: 700;
+    font-family: monospace;
+    background-position: 100%;
+    margin: 10px;
+    padding: 50px;
+}
+
+
+    
+/* classificação */
+    .cls{
+        background-color: aquamarine;
+       text-align: center;
+      
+        
+    }
+
+    .cls-display{
+        display:inline-block ;
+        ;
+        
+    }
+
+    #cls-lista{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    
+    }
+
+
+    
